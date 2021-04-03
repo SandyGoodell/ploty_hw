@@ -1,0 +1,36 @@
+.container {
+    color: yellow;
+    font-family: Roboto;
+    background-color: grey;
+    
+}
+
+.well {
+    color: red;
+    font-family: Verdana;
+}
+
+.panel {
+    color: black;
+    font-family: Verdana;
+}
+
+#sample-medata {
+    font-size: larger;
+
+}
+
+.jumbotron {
+    background-image: url("https://thumbs-prod.si-cdn.com/fx2gbZTTFZbaGnVDvCBAQOinKuA=/fit-in/1600x0/https://public-media.si-cdn.com/filer/73/a1/73a13ed9-3262-4973-b40f-97a26aa79fcf/istock-924923870.jpg");
+    background-size: cover;
+  }
+
+#sample-metadata {
+    color: black;
+    font-family: Verdana;
+}
+
+.panel-heading {
+    background-color: white;
+}
+
