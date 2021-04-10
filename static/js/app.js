@@ -40,7 +40,7 @@ function buildCharts(sample) {
       let otu_labels = result.otu_labels;
       let sample_values = result.sample_values;
       // build the bar chart for top 100
-      // use slice (0,10) and .reverst to order the results
+      // use slice (0,10) and .reverse to order the results
       let y = otu_ids.slice(0, 10).map(otuID => `OTU ${otuID}`).reverse();
       let barData = [
          {
